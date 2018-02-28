@@ -1,0 +1,62 @@
+body 
+{
+    background-color: #66cc66;
+}
+
+h1 
+{
+    color: black;
+}
+
+p 
+{
+    color: black;
+}
+
+div
+{
+   background-color: LightGrey;
+   width:1200px;
+   border: thin solid black;
+   padding:5px;
+   margin: auto;
+   height: 600px;
+}
+
+button
+{
+    background-color: #82b74b;
+    color: Black;
+    padding: 14px 20px;
+    margin: 8px auto 0px auto;
+    border: thin solid white;
+    border-radius: 8px;
+    cursor: pointer;
+    width: 200px;
+    display: block;
+    transition-duration: 0.3s;
+}
+
+.button1
+{
+    background-color: #82b74b;
+    color: Black;
+}
+
+.button2
+{
+    background-color: #82b74b;
+    color: Black;
+}
+
+.button3 
+{
+    background-color: #82b74b;
+    color: Black;
+}
+
+button:hover
+{
+   background-color: white;
+   color: black;
+}
