@@ -1,0 +1,78 @@
+body
+{
+   height: 100%;
+   background-color:#66cc66;
+}
+
+#Login_form
+{
+   background-color: white; 
+   position: relative;
+   text-align: center;
+   width: 215px;
+   margin-top: 50%;
+   font-family: 'Times New Roman', Times, serif;
+   padding: 3px;
+   border: medium solid black;
+   margin: 0 auto;
+   vertical-align: middle;
+   top: 100px;
+}
+
+input[type=text] 
+{
+  width: 95%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: thin solid black;
+  background-color: #dcdcdc;
+  color: black;
+}
+
+input[type=password]
+{
+  width: 95%;
+  padding: 12px 20px;
+  margin 8px 0;
+  box-sizing: border-box;
+  border: thin solid black;
+  background-color: #dcdcdc;
+  color: black;
+  
+}
+
+
+a:link, a:visited
+{
+   background-color: #82b74b;
+   color:black;
+   width: 93%;
+   height: 40px;
+   top: 10px;
+   border: thin solid black;
+   padding 10px 20px;
+   text-align: center;
+   line-height: 40px;
+   text-decoration: none;
+   display: inline-block;
+}
+
+a:hover, a:active
+{
+   background-color: green;
+   color: white;
+}
+   
+}
+/*
+a:link, a:visited
+{
+    background-color: #82b74b;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: thin solid black;
+    cursor: pointer;
+    width: 95%;
+}*/
